@@ -16,7 +16,8 @@
             "genre": "fiction",
             "edition": "2021",
             "publisher": "Bloomsbury",
-            "cost": 1299
+            "cost": 1299,
+            "borrowed": false
         },
         {
             "id": 2,
@@ -26,7 +27,8 @@
             "genre": "History",
             "edition": "2021",
             "publisher": "Bloomsbury",
-            "cost": 1399
+            "cost": 1399,
+            "borrowed": false
         },
         {
             "id": 3,
@@ -36,7 +38,8 @@
             "genre": "fiction",
             "edition": "2021",
             "publisher": "Bloomsbury",
-            "cost": 299
+            "cost": 299,
+            "borrowed": false
         },
         {
             "id": 4,
@@ -46,7 +49,8 @@
             "genre": "Tech",
             "edition": "2021",
             "publisher": "Bloomsbury",
-            "cost": 129
+            "cost": 129,
+            "borrowed": false
         },
         {
             "id": 5,
@@ -56,7 +60,8 @@
             "genre": "Business",
             "edition": "2021",
             "publisher": "Bloomsbury",
-            "cost": 199
+            "cost": 199,
+            "borrowed": false
         },
         {
             "id": 6,
@@ -66,7 +71,8 @@
             "genre": "fiction",
             "edition": "2021",
             "publisher": "Bloomsbury",
-            "cost": 3329
+            "cost": 3329,
+            "borrowed": false
         },
         {
             "id": 7,
@@ -76,7 +82,8 @@
             "genre": "fiction",
             "edition": "2021",
             "publisher": "Bloomsbury",
-            "cost": 6699
+            "cost": 6699,
+            "borrowed": false
         },
         {
             "id": 8,
@@ -86,7 +93,8 @@
             "genre": "Science",
             "edition": "2021",
             "publisher": "Bloomsbury",
-            "cost": 99
+            "cost": 99,
+            "borrowed": false
         },
         {
             "id": 9,
@@ -96,7 +104,8 @@
             "genre": "Science",
             "edition": "2021",
             "publisher": "Bloomsbury",
-            "cost": 999
+            "cost": 999,
+            "borrowed": false
         },
         {
             "id": 10,
@@ -106,7 +115,8 @@
             "genre": "fiction",
             "edition": "2021",
             "publisher": "Bloomsbury",
-            "cost": 111
+            "cost": 111,
+            "borrowed": false
         }
     ]
 }
