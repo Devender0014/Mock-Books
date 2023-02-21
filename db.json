@@ -129,5 +129,12 @@
             "cost": 111,
             "borrowed": false
         }
+    ],
+    "quizz" : [
+        {
+            "id" : 1,
+            "name" : "dev",
+            "score" : 30
+        }
     ]
 }
