@@ -162,5 +162,31 @@
             "position": "Junior Frontend Developer",
             "language": "Java"
         }
+    ],
+    "task" : [
+        {
+            "id" : 1,
+            "username" : "devender",
+            "email" : "yadav@gmail.com",
+            "password" : "123123",
+            "tasks" : [
+                {
+                    "name": 1,
+                    "description": "Attend Mock",
+                    "date": "2023-04-07"
+                },
+                {
+                    "name": 2,
+                    "description": "Atten Interviews",
+                    "date": "2023-04-7"
+                },
+                {
+                    "name": 3,
+                    "description": "Revise React",
+                    "date": "2023-04-7"
+                }
+            ]
+        }
     ]
+
 }
